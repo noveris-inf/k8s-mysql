@@ -1,1 +1,1 @@
-# k8s-mysql
+# kustomize-mysql
